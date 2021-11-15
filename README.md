@@ -18,9 +18,9 @@ Example:
 
 Return:
 
-  {
-    "amount": 11108111331.8,
-    "code": "IDR",
-    "type": "string",
-    "words": "Sebelas Milyar Seratus Delapan Juta Seratus Sebelas Ribu Tiga Ratus Tiga Puluh Satu Titik Delapan Puluh IDR"
-  }
+{
+  "amount": 11108111331.8,
+  "code": "IDR",
+  "type": "string",
+  "words": "Sebelas Milyar Seratus Delapan Juta Seratus Sebelas Ribu Tiga Ratus Tiga Puluh Satu Titik Delapan Puluh IDR"
+}
