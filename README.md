@@ -7,11 +7,16 @@ note to add any language:
   - follow the role of the previous two points
 
 Example:
+
   $currency = new CurrencyToWords('id');
+  
   $currency->amount = "Rp11108111331.8";
+  
   echo json_encode($currency->getWords());
   
+  
 Return:
+
   {
     "amount": 11108111331.8,
     "code": "IDR",
