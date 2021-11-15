@@ -2,8 +2,8 @@
 get currency words IDR, USD etc
 
 note to add any language:
-  - add & set the function currency, punctuation, numeral & digit for any language
-  - add special condition to digit function if needed
+  - add & set the method (currency, punctuation, numeral & digit) for any language
+  - add special condition to digit method if needed
   - follow the role of the previous two points
 
 Example:
